@@ -1,0 +1,7 @@
+setup.py
+municipalities/__init__.py
+municipalities/municipalities.py
+municipalities.egg-info/PKG-INFO
+municipalities.egg-info/SOURCES.txt
+municipalities.egg-info/dependency_links.txt
+municipalities.egg-info/top_level.txt
